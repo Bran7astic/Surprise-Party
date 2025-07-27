@@ -1,8 +1,8 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Surprise Party*
 
-Submitted by: **Your Name Here**
+Submitted by: **Brandon Budhan**
 
-This web app: **insert description**
+This web app: **Build a team of random, surprise Pokemon with customizable attributes!**
 
 Time spent: **X** hours spent in total
 
