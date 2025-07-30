@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import StepCard from "./StepCard";
+import StepCard from "../../components/StepCard";
+import "./GetPokemon.css"
 import { supabase } from "../../client";
 import { useNavigate } from "react-router-dom";
 
