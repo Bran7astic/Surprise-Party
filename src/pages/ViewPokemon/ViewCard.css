@@ -1,0 +1,30 @@
+.viewContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    /* background-color: green; */
+}
+
+.viewCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 3px solid #97b6ea;
+    padding: 20px;
+    width: 28%;
+    transition: transform 0.3s;
+    /* background-color: red; */
+}
+
+.viewCard:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.viewImg {
+    width: 80%;
+    /* background-color: blue; */
+}

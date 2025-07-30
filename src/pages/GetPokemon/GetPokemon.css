@@ -1,0 +1,29 @@
+.getPokemonContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5em;
+    width: 100%;
+}
+
+.stepCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid #97b6ea;
+    transition: transform 0.3s;
+}
+
+.stepCard:hover {
+    transform: scale(1.05);
+}
+
+button {
+    background-color: #97b6ea ;
+    color: white;
+}
